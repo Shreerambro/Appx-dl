@@ -1,4 +1,4 @@
-# SujeetBoss3 DRM Uploader Bot
+# All in One DRM Uploader Bot
 
 A high-speed Telegram DRM video downloader and uploader bot built with Pyrogram and Cython optimizations.
 
