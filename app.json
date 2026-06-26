@@ -7,27 +7,22 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "28854523",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "3ec8779aa2109cfa00fd6146146a065c",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Get this from @BotFather",
-      "value": "8753755010:AAHjR-nD3AUXKOPzsBxO82eRud7pfzK0jt8",
       "required": true
     },
     "AUTH_USERS": {
       "description": "List of user IDs who can use this bot separated by comma",
-      "value": "1018181607",
       "required": true
     },
     "CREDIT": {
-      "description": "Your custom watermark or name for uploads",
-      "value": "Sujeet™",
+      "description": "Your custom watermark or name for uploads (e.g., Shreeram™)",
       "required": false
     }
   },
