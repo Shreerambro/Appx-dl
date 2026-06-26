@@ -6,7 +6,7 @@ A high-speed Telegram DRM video downloader and uploader bot built with Pyrogram 
 
 Click the button below to instantly deploy this bot to Heroku. All required environment variables will be prompted automatically.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shreerambro/Appx-dl)
 
 > **Note:** Make sure you have uploaded your repo to GitHub before clicking the deploy button, so Heroku can clone it directly.
 
