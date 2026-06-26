@@ -16,7 +16,7 @@ Click the button below to instantly deploy this bot to Heroku. All required envi
 - `API_HASH`: Your Telegram API Hash from my.telegram.org
 - `BOT_TOKEN`: Your Telegram Bot Token from @BotFather
 - `AUTH_USERS`: List of Telegram User IDs separated by commas who are authorized to use the bot.
-- `CREDIT`: Your Custom Watermark / Channel Name (e.g. "Sujeet™")
+- `CREDIT`: Your Custom Watermark / Channel Name (e.g. "Ram™")
 
 ## ⚡ Speed Optimizations Applied
 - `workers=100` implemented for extremely fast Pyrogram concurrency.
